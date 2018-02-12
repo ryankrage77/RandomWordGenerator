@@ -1,3 +1,4 @@
+#! /usr/bin/env python2
 #Ryankrage77's Random Word Generator
 #Generates random pronouncable strings of a specified length.
 
