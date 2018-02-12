@@ -1,12 +1,14 @@
-# RandomWordGenerator
-Generates random pronounceable strings
+# Random Word Generator
+Generates random pronounceable strings.
+
+Written in python 2.7 - does not yet run in python 3.x
 
 ## How do you know they're pronounceable?
 Every time a new word is generated, it is sent to me for approval.
 
 Nah, just make sure no no more than two consonants or three vowels appear together.
 
-This results in words that are mostly possible to say, but you do get double hard consonants, like bb, dd, gg, kk, etc.
+This results in words that are mostly possible to say, but you do get weird stuff like qx, db, etc.
 
 ## How do you know they're random?
 I use Python's `Random` library/function/module thingy. The shorter the words you generate, the more likely they are to match an existing word.
