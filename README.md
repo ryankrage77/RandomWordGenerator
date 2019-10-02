@@ -1,7 +1,7 @@
 # Random Word Generator
 Generates random pronounceable strings.
 
-Written in python 2.7 - does not yet run in python 3.x
+~~Written in python 2.7 - does not yet run in python 3.x~~ Now supports python3!
 
 ## How do you know they're pronounceable?
 Every time a new word is generated, it is sent to me for approval.
