@@ -14,8 +14,8 @@ This results in words that are mostly possible to say, but you do get weird stuf
 I use Python's `Random` library/function/module thingy. The shorter the words you generate, the more likely they are to match an existing word.
 
 ### Future Plans
-- tidy code up
-- fix length 0 bug
-- Better 'pronounceable' check
+- Tidy code up.
+- Fix length 0 bug.
+- Better 'pronounceable' check.
 - Check generated words againsts a dictionary to see if they already exist.
-- Allow for language-root specific generation, such as germanic or Japonic.
+- Allow for language-root specific generation, such as Germanic or Japonic.
