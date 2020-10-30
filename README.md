@@ -3,7 +3,7 @@ Generates random pronounceable strings.
 
 ~~Written in python 2.7 - does not yet run in python 3.x~~ Now supports python3!
 
-Thanks to @natfan, there's not a PowerShell version too.
+Thanks to [natfan](https://github.com/Natfan), there's not a PowerShell version too.
 
 ## How do you know they're pronounceable?
 Every time a new word is generated, it is sent to me for approval.
